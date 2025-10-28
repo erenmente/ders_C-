@@ -20,7 +20,7 @@ During this project, I gained experience with:
 
 ```bash
 # Clone the repo
-git clone https://github.com/ErenMente/ders_C-.git
+git clone https://github.com/erenmente/ders_C-.git
 
 # Open the solution in Visual Studio
 # Build and Run
